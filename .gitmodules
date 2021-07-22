@@ -7,3 +7,6 @@
 [submodule "Analyses/hig-19-001"]
 	path = Analyses/hig-19-001
 	url = https://gitlab.cern.ch/cms-hcg/cadi/hig-19-001.git
+[submodule "Analyses/hig-19-002"]
+	path = Analyses/hig-19-002
+	url = https://gitlab.cern.ch/cms-hcg/cadi/hig-19-002.git
