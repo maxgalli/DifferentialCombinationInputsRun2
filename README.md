@@ -16,3 +16,5 @@ To update the repos to the latest releases, follow these commands (e.g. for HWW)
 - ```cd ..```
 - (no need to ```git add``` because git already keeps tracks of the updated submodules in ```.gitmodules```)
 - ```git commit -m "meaningful message where the tag of the updated submodule is specified"```
+
+The naming conventions are described [here](https://twiki.cern.ch/twiki/bin/viewauth/CMS/HiggsWG/HiggsDifferentialConventions).
