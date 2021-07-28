@@ -63,3 +63,10 @@ inside each of them:
 $ ls ptH/
 fullmodel.txt  fullmodel_2016.txt  fullmodel_2017.txt  fullmodel_2018.txt  templates_2016.root  templates_2017.root  templates_2018.root
 ```
+
+## Chronological report of situation
+
+- 01017ad47f42e42a1836f15d87ec52e8d8e82f60, 28.07.21:
+    - HZZ cards do not follow the conventions, waiting for the authors to change them
+    - HWW [these lines](https://gitlab.cern.ch/cms-hcg/cadi/hig-19-002/-/blob/master/ptH/fullmodel.txt?expanded=true&viewer=simple#L697-700) seem to break the combination (e.g. ```combineCards.py hww=fullmodel.txt htt=FinalCard_200721_aJXdiY.txt > 
+pth_hww_htt.txt```)
